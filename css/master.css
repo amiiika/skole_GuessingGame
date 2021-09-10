@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+form h1{
+    font-size: 13vh;
+    color: darkcyan;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+form input{
+    width: 50vh;
+    height: 30vh;
+    font-size: 25vh;
+    text-align: center;
+    border-radius: 80px;
+    border-color: cadetblue;
+    border-width: 2vh;
+}
+
+form p{
+    font-size: 4vh;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(63, 61, 61);
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3vh;
+    color: rgb(63, 61, 61);
+
+}
+
+.error{
+    color: crimson;
+    font-weight: bold;
+}
+
+.succsess{
+    color: mediumseagreen;
+    font-weight: bold;
+}
+
